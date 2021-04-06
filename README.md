@@ -23,5 +23,5 @@ Understanding the model and personlaty traits
 - **Neuroticism** describes a person's tendency to respond to stressors with negative emotions, including fear, sadness, anxiety, guilt, and shame. 
     * High Neuroticism scorers are more likely to react to a situation with strong negative emotions. 
     * Low Neuroticism scorers are more likely to brush off their misfortune and move on.
-    
-Link to dataset is [here](https://www.kaggle.com/tunguz/big-five-personality-test)
+
+[Link to dataset](https://www.kaggle.com/tunguz/big-five-personality-test)
